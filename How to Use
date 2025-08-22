@@ -1,0 +1,14 @@
+
+Save codes as server.c and client.c.
+
+Compile both:
+gcc server.c -o server
+gcc client.c -o client
+
+
+Run the server first:
+./server
+
+
+Then run the client in another terminal (or another computer on the same network):
+./client
